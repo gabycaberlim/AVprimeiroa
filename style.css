@@ -5,3 +5,8 @@ h1{
 p {
     text-align: center;
 }
+
+
+h1{
+    -webkit-mask-image: center;
+}
